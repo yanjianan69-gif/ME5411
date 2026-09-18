@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+.vscode/
+tmp/
+
+# Keep datasets, documents, and generated images local.
+dataset_2026_updated/
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+.DS_Store
+Thumbs.db
